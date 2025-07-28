@@ -37,7 +37,7 @@ It also allows filtering by:
 
 ### 1. Summary Page
 
-![Summary Dashboard](https://github.com/namansingla05/Spotify_Analysis_PowerBI/blob/main/Summary_DashBoard.png)
+![Summary Dashboard](https://github.com/devanantpushkar/Spotify-Dashboard/blob/main/Summary_DashBoard.png)
 
 - **Visualizes Key Metrics** such as:
   - Total Albums Played
