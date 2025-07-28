@@ -94,7 +94,7 @@ It also allows filtering by:
 
 ### 3. Details Page
 
-![Details Dashboard](https://github.com/namansingla05/Spotify_Analysis_PowerBI/blob/main/GridView_DashBoard.png)
+![Details Dashboard](https://github.com/devanantpushkar/Spotify-Dashboard/blob/main/GridView_DashBoard.png)
 
 #### Tabular View with Hierarchical Grouping
 
