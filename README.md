@@ -64,7 +64,7 @@ It also allows filtering by:
 
 ### 2. Listening Pattern Page
 
-![Listening Pattern Dashboard](https://github.com/namansingla05/Spotify_Analysis_PowerBI/blob/main/Listening_Pattern_DashBoard.png)
+![Listening Pattern Dashboard](https://github.com/devanantpushkar/Spotify_Analysis_PowerBI/blob/main/Listening_Pattern_DashBoard.png)
 
 - **Heatmap Visualization**: Displays listening activity by **hour of the day** vs **day of the week**, enabling the identification of peak listening periods and trends.
 
